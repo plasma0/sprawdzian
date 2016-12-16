@@ -1,0 +1,14 @@
+{
+  "name": "plasma0/company",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+      "php": ">=5.3.3",
+    "guzzlehttp/guzzle": "^6.2",
+    "symfony/stopwatch": "^3.2"
+  }
+}
+
